@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     MAJOR_VERSION = 1
-    MASTER_IP = '18.133.122.17'
+    MASTER_IP = '18.170.44.159'
     SLAVE_IP = '35.178.182.103'
   }
 
