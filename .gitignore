@@ -2,3 +2,5 @@ bin/*
 dist/*
 reports/*
 docs/*
+.idea
+content-jenkins-java-project.iml
